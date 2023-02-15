@@ -1,0 +1,3 @@
+gradle
+
+java 17
